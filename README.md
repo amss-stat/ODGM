@@ -300,4 +300,5 @@ This repository is released under the MIT License. See `LICENSE` for details.
 
 Rhee, S.-Y., Taylor, J., Fessel, W. J., Kaufman, D., Towner, W., Troia, P., Ruane, P., Hellinger, J., Shirvani, V., Zolopa, A., and Shafer, R. W. (2006). Genotypic predictors of human immunodeficiency virus type 1 drug resistance. *Proceedings of the National Academy of Sciences*, 103(46), 17355–17360. https://doi.org/10.1073/pnas.0607274103
 
-Azaïs, J.-M., and De Castro, Y. (2021). *lar_testing: Python notebook on GtSt testing procedures on the LARS path*. GitHub repository. https://github.com/ydecastro/lar_testing/
+Azaïs, J. M., & De Castro, Y. (2022). Multiple testing and variable selection along the path of the least angle regression. Information and Inference: A Journal of the IMA, 11(4), 1329-1388.
+GitHub repository: https://github.com/ydecastro/lar_testing/
