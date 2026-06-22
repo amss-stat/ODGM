@@ -1,14 +1,14 @@
 # Python dependencies for simulation, real-data analysis, and figures.
 # Python 3.10 or later is required.
 
-numpy>=1.23
-scipy>=1.9
-matplotlib>=3.6
-torch>=2.0
-pandas>=1.5
-scikit-learn>=1.1
-pyreadr>=0.5
+numpy
+scipy
+matplotlib
+torch
+pandas
+scikit-learn
+pyreadr
 nonlinshrink
-upsetplot>=0.8
+upsetplot
 
 # For a CUDA-enabled PyTorch installation, install the appropriate PyTorch wheel before installing this file.
