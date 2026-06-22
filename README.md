@@ -4,8 +4,6 @@ Reproducibility code for the paper **“ODGM: Feature Selection via Deformable G
 
 ODGM is a p-value-free framework for feature selection in proportional high-dimensional linear regression. It extends Gaussian Mirror by allowing flexible rejection and calibration regions, aggregates a library of deformable Gaussian mirror procedures through majority voting, and stabilises the final selection through derandomisation.
 
-Generated simulation and real-data outputs are written to `results/` and are not tracked by Git by default.
-
 ## Installation
 
 Python 3.10 or later is recommended. The Python code automatically uses CUDA when an appropriate PyTorch installation and compatible GPU are available. A CPU installation also works, but may be substantially slower. Install the required packages:
