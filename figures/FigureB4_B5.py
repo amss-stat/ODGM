@@ -2,8 +2,6 @@
 
 The script reads trial-level FDP and power values from
 ``results/n{n}_p{p}_p1{p1}_A{a}_rho{rho}_k1{par}/Alltrials_FDP_Power.txt``.
-It plots their cumulative averages across simulation trials and does not
-recompute selections, thresholds, or ODGM voting.
 """
 
 from dataclasses import dataclass
