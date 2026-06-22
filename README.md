@@ -36,7 +36,7 @@ config = SimulationConfig(
     q=0.1,
     simu_trial=100,
     simu_derandom=100,
-    num_mc=100_000,
+    num_mc=100000,
 )
 ```
 
