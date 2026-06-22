@@ -11,5 +11,4 @@ pyreadr>=0.5
 nonlinshrink
 upsetplot>=0.8
 
-# For a CUDA-enabled PyTorch installation, install the appropriate PyTorch wheel
-# from https://pytorch.org/get-started/locally/ before installing this file.
+# For a CUDA-enabled PyTorch installation, install the appropriate PyTorch wheel before installing this file.
