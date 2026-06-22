@@ -12,8 +12,6 @@ Each line in that file must have the form:
     METHOD_NAME: index_1 index_2 ...
 
 where METHOD_NAME is one of the internal names listed in ``METHOD_DISPLAY_NAMES``.
-The script only reads these final selected feature sets; it does not recompute
-thresholds, majority voting, or derandomisation.
 
 Before running
 --------------
@@ -21,7 +19,7 @@ Before running
 2. Confirm that every drug folder contains ``algorithm_rejections.txt``.
 3. Run from the repository root:
 
-       python figures/Figure6_upset.py
+       python figures/Figure6.py
 """
 
 from pathlib import Path
