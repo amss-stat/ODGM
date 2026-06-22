@@ -2,7 +2,7 @@
 
 The script combines:
 1. the original main_simu.py summary, which provides k1 = 2; and
-2. the change_k1_new.py summary, which provides k1 = 0.5 and k1 = 1
+2. the simu_k1.py summary, which provides k1 = 0.5 and k1 = 1
    using the same saved data and injected-noise realisation.
 
 It plots the six A- and P-calibrated procedures across k1 = 0.5, 1, and 2.
