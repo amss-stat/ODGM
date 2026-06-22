@@ -1,4 +1,4 @@
-"""Plot the rejection and calibration regions used by ODGM."""
+"""Plot the rejection and calibration regions."""
 
 from dataclasses import dataclass
 from pathlib import Path
